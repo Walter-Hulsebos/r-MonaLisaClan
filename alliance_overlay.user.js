@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MonaLisaClan
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      3.0
 // @description  Keep the canvas beautiful!
 // @author       /u/djdogjuam2 & /u/irate_kalypso
 // @match        https://hot-potato.reddit.com/embed*
