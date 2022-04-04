@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\wybre\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\wybre\\.nuget\\packages"
-    ]
-  }
-}
